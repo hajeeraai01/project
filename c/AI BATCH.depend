@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1701244807 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\addtion.c
+	<stdio.h>
+
+1701754181 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701242989 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\subtration.c
+	<stdio.h>
+
+1701325689 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\subtraction.c
+	<stdio.h>
+
+1701244784 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\multiple.c
+	<stdio.h>
+
+1701244404 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\divide.c
+	<stdio.h>
+
+1701244759 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\modules.c
+	<stdio.h>
+
+1701325657 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\increment.c
+	<stdio.h>
+
+1701326500 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\while.c
+	<stdio.h>
+
+1701327194 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\end.c
+	<stdio.h>
+
+1701412725 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\sum.c
+	<stdio.h>
+
+1701752679 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\switch.c
+	<stdio.h>
+
+1701416550 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\line.c
+	<stdio.h>
+
+1701417181 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\loop.c
+	<stdio.h>
+
+1701499998 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\strut.c
+	<stdio.h>
+
+1701499963 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\floating.c
+	<stdio.h>
+
+1701669806 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\if.c
+	<stdio.h>
+
+1701751815 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\get.c
+
+1701757185 source:c:\users\bright-sys08\desktop\ai batch01\new folder\cdemo\ai batch\addtion get.c
+	<stdio.h>
+
